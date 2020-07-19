@@ -1,2 +1,2 @@
-# https://www.qata3ajust.github.io
+# qata3ajust.github.io
 A site belonging to most of the Faculty of Information Technology for all academic years
